@@ -24,7 +24,7 @@ Decisione di Microsoft di renderlo open source, accelerazione nell'adozione.
 
 L'incremento della popolarità é dovuto in gran parte alla capacità di fornire un ambiente di sviluppo sicuro e alla sua compatibilità con l'ecosistema JavaScript esistente.
 
-**---> JavaScript é un linguaggio di programmazione o meglio un'estensione di JavaScript. Il linguaggio estende la sintassi di JavaScript in modo che qualunque programma scritto in JavaScript sia in grado di funzionare con TypeScript senza alcuna modifica.<---**
+**---> TypeScript é un linguaggio di programmazione o meglio un'estensione di JavaScript. Il linguaggio estende la sintassi di JavaScript in modo che qualunque programma scritto in JavaScript sia in grado di funzionare con TypeScript senza alcuna modifica.<---**
 
 E' stato progettato per lo sviluppo di grandi applicazioni ed é destinato ad essere transpilato in JavaScript per poter essere interpretato da qualunque browser o app.
 
@@ -44,7 +44,7 @@ TypeScript é un superset di JavaScript, scritto basandosi su di esso.
 Perché TypeScript?
 Gli obiettivi principali di TypeScript sono:
 
-- Introdurre i types opzionali a JavaScript
+- Introdurre i types opzionali in JavaScript
 - Implementare le feature del futuro JavaScript nel JavaScript corrente
 
 I Types sono visti come un modo per aumentare la produttività di codice, grazie al controllo effettuato, in modo da prevenire che avvenga in runtime.
@@ -62,7 +62,7 @@ TypeScript supporta le feature che sono nello stage 3.
 
 ## 2. "Hello, World!" in TypeScript
 
-**TypeScript rappresenta un estensione di JavaScript, che introduce elementi aggiuntivi per migliorarne la struttura e la robustezza.**
+**TypeScript rappresenta un'estensione di JavaScript, che introduce elementi aggiuntivi per migliorarne la struttura e la robustezza.**
 Mentre JavaScript é un linguaggio interpretato, eseguito in tempo reale dai browser web o da ambienti come Node.js, TypeScript richiede un processo di transpilazione per essere eseguito.
 
 JavaScript, essendo interpretato, viene letto ed eseguito direttamente dall'applicazione che lo ospita, come ad esempio un browser.
